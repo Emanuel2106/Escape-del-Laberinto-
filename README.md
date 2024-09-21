@@ -41,7 +41,7 @@
     ```
 4. Para ejecutar el juego, corre el siguiente comando en la terminal:
     ```
-    python game.py
+    python videojuego.py
     ```
 
 ---
